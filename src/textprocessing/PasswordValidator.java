@@ -67,9 +67,6 @@ public class PasswordValidator {
         }//while loop
 
             scanner.close();
-
-
-
     }//method validateNewPassword
 
 
